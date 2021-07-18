@@ -1,7 +1,7 @@
 # <div align="center">**Nataliia Rebukha – Senior Staffing Specialist**</div>
-## <div align="right">Wroclaw, Poland</div>
-## <div align="right">nataliia.rebukha@gmail.com</div>
-## <div align="right">731-567-778</div>
+### <div align="right">Wroclaw, Poland</div>
+### <div align="right">nataliia.rebukha@gmail.com</div>
+### <div align="right">731-567-778</div>
 ---
 
 # **Summary**
@@ -19,7 +19,7 @@ management requirements and sustaining ongoing customer relationships;
 
 ## ***Senior Staffing Coordinator***
 
-### **Resposibilities:**
+*Resposibilities:*
 
 * Communicating with Delivery Managers/Account Managers to capture the staffing demands
 * Researching and choosing the best locations for staffing of the project
@@ -34,7 +34,7 @@ management requirements and sustaining ongoing customer relationships;
 
 ## ***Senior Researcher and FS Bench Manager***
 
-### **Responsibilities:**
+*Responsibilities:*
 * Partner directly with the Recruiting Team and Hiring Managers to understand their specific needs to attract and bring in top talent
 * Strategically utilize LinkedIn, networks, and research methods to source passive candidates
 * Schedule screening with applicants
@@ -48,7 +48,7 @@ management requirements and sustaining ongoing customer relationships;
 
 ## ***Senior Legal Advisor***
 
-### **Responsibilities:**
+*Responsibilities:*
 * Manage all aspects of the Visa and Immigration processes, ensuring that they run smoothly
 * Prepare the documentation in accordance with legal requirements under little supervision, provide timely completion and check if the information is accurate and correct
 * Maintain strong working relationships with employees, candidates, colleagues and US immigration attorneys
