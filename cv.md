@@ -1,7 +1,7 @@
-# <div align="center">**Nataliia Rebukha – Senior Staffing Specialist**</div>
-### <div align="right">Wroclaw, Poland</div>
-### <div align="right">nataliia.rebukha@gmail.com</div>
-### <div align="right">731-567-778</div>
+# **Nataliia Rebukha – Senior Staffing Specialist**
+### Wroclaw, Poland
+### nataliia.rebukha@gmail.com
+### 731-567-778
 ---
 
 # **Summary**
@@ -11,7 +11,7 @@ management requirements and sustaining ongoing customer relationships;
 * Excellent communication and interpersonal skills, ability to work independently as well as part of an integrated team
 * Ability to liaise with management and employees of the company and candidates
 <br/><br/> 
----
+
 
 # **Work Experience**
 
@@ -60,14 +60,13 @@ management requirements and sustaining ongoing customer relationships;
 * Was responsible for the full life cycle recruiting process
 * Performed interviews to assess candidates’ capabilities, was involved in the evaluation process and hiring decisions, provided candidate with follow–ups and feedback, and extended and negotiated employment offer packages
 <br/><br/> 
----
+
 
 # **Education**
 ### *__Specialist's degree__ in Foreign Languages from Ternopil National Pedagogical University*
 
 <br/><br/>
 
----
 
 # **Courses and Certificates**
 
