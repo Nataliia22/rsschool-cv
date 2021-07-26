@@ -1,0 +1,304 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+body {
+    background-color: rgb(216, 224, 238);
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    background-color: white;
+    display: flex; 
+    margin: 10px;
+}
+.left {
+    position: relative;
+    background-color: DarkSlateBlue;
+    padding: 40px;
+    height: 1553px;
+    width: 400px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.photo img {
+    height:100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+}
+.name {
+    margin: 20px 5px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.title {
+    margin: 50px 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.contactInfo {
+    margin-top: 70px; 
+    line-height: 1.5;
+
+}
+.contactTitle {
+    text-transform: uppercase;
+    font-size: 25px;
+    border-bottom: solid 1px white;
+}
+.contactInfo li {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.contactInfo li span {
+    margin-right: 20px;
+}
+
+.contactInfo a {
+    text-decoration: none;
+    color: white;
+}
+
+.skills h3{
+    margin-top: 70px;
+    text-transform: uppercase;
+    font-size: 25px;
+    border-bottom: solid 1px white;
+}
+.skills li {
+    margin-left: 10px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.languages h3 {
+    margin-top: 70px;
+    text-transform: uppercase;
+    font-size: 25px;
+    border-bottom: solid 1px white;
+}
+
+.languages li {
+    margin-left: 10px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.right {
+    position: relative;
+    background-color: white;  
+    height: 1553px;
+    width:1000px;
+}
+
+nav {
+    position: fixed;
+    z-index: 99;
+    width: 1020px;
+    height: 50px;
+    top: 10px;
+    background-color: darkslateblue;
+    color: white;
+    padding: 15px;
+    text-transform: uppercase;
+}
+
+nav ul{
+    list-style-type: none; 
+}
+
+nav ul li{
+    font-size: 1.2rem;
+    transition: background-color 0.2s;
+    display: inline;
+    margin: 2px;
+    border-right: 1px solid white;
+    padding-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+nav ul li:hover{
+    background-color: slateblue;
+    padding: 15px;
+}
+
+
+.about_me h1 {
+    color:darkslateblue;
+    text-transform: uppercase;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.about_me h1 span {
+    margin-right: 30px;
+    margin-left: 20px;
+    font-size: 50px;
+
+}
+
+.about_me ul {
+    margin: 15px 0 20px 100px;
+}
+
+.job h1 {
+    color:darkslateblue;
+    text-transform: uppercase;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.job h1 span {
+    margin-right: 30px;
+    margin-left: 20px;
+    font-size: 50px;
+}
+
+.job .job_group {
+    position: relative;
+}
+
+.job .job_group h2 {
+    text-transform: uppercase;
+    color: darkslateblue;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.job .job_group h3 {
+    text-transform: uppercase;
+    color: darkslateblue;
+    font-weight: 600;
+    margin-left: 30px;
+}
+
+.job .job_group span {
+    color: darkslateblue;
+    font-weight: 650;
+    margin-left: 30px;
+}
+.job ul {
+    margin: 20px 0 20px 100px;
+}
+
+.education h1 {
+    color:darkslateblue;
+    text-transform: uppercase;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.education h1 span {
+    margin-right: 30px;
+    margin-left: 20px;
+    font-size: 50px;
+}
+
+.education h3 {
+    margin-left: 30px;
+    margin-top: 20 px;
+    color:darkslateblue;
+
+}
+
+.courses h1 {
+    color:darkslateblue;
+    text-transform: uppercase;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.courses h1 span {
+    margin-right: 30px;
+    margin-left: 20px;
+    font-size: 50px;
+}
+
+.courses .courses_group h2 {
+    text-transform: uppercase;
+    color: darkslateblue;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.courses .courses_group h3 {
+    text-transform: uppercase;
+    color: darkslateblue;
+    font-weight: 600;
+    margin-left: 30px;
+}
+
+.courses .courses_group span {
+    color: darkslateblue;
+    font-weight: 650;
+    margin-left: 30px;
+}
+
+.courses ul {
+    margin: 20px 0 20px 100px;
+}
+
+
+footer {
+    background-color: darkslateblue; 
+    width: 1020px;
+    height: 80px;
+    color: white;
+}
+footer ul {
+    list-style-type: none;
+    
+}
+footer ul li {
+    display: inline;
+    margin-right: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+.click img {
+    margin: 0;
+    height: 50px;
+    width: 70px;
+    padding: 10px;
+    position: relative;
+    top: 15px;
+}
+
+footer ul li:hover{
+    background-color: slateblue;
+    color: white;
+    padding: 15px;
+}
+
+footer p {
+    font-size: large;
+    float: right;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
